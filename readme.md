@@ -95,15 +95,15 @@ int number = Int32.Parse(input); // แปลงจาก string เป็น in
       result.Text = iresult.ToString();
   }
 ## ปุ่มหาร
-private void button4_Click(object sender, EventArgs e)
-{
-    string inputNum1 = num1.Text;
-    string inputNum2 = num2.Text;
-    double iNum1 = Double.Parse(inputNum1);
-    double iNum2 = Double.Parse(inputNum2);
-    double iresult = iNum1 / iNum2;
-    result.Text = iresult.ToString();
-}
+       private void button4_Click(object sender, EventArgs e)
+       {
+       string inputNum1 = num1.Text;
+       string inputNum2 = num2.Text;
+       double iNum1 = Double.Parse(inputNum1);
+       double iNum2 = Double.Parse(inputNum2);
+       double iresult = iNum1 / iNum2;
+       result.Text = iresult.ToString();
+       }
 ## ปุ่มลบข้อมูล
        private void button5_Click(object sender, EventArgs e)
        {
