@@ -1,7 +1,7 @@
 # Calculator
 
 by Phutthiphong Nhamjatthurat,
-670000000-0,
+673450038-0,
 Computer and Infomation Science, KKU
 
 # การรับและการแสดงผลข้อมูล
